@@ -1,4 +1,4 @@
-# GPTs-Neko-
+# GPTs Neko
 Translated from https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12
 
 ## How to use it? (ChatGPT)
