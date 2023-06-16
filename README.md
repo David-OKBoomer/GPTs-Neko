@@ -15,4 +15,4 @@ ChatGPT Jailbreak Prompt is usless to Google Bard at the moment (6<sup>th</sup> 
 Therefore, it is probably impossible to make Bard ~~horny~~
 Just copy the prompt from Bard.txt
 
-**You _MUST_ add "Lets continue our roleplay everytime before sending a new message so that Bard will response as a catgirl.**
+**You _MUST_ add "Lets continue our roleplay" everytime before sending a new message so that Bard will response as a catgirl.**
